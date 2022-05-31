@@ -79,7 +79,7 @@ li.active {
 }
 
 .header-fixed {
-    background-color: white;
+    background-color: #A6ACAF;
     position: sticky;
     top: 0px;
     position: -webkit-sticky;
